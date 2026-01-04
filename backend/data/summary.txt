@@ -1,0 +1,7 @@
+I am a Data Analyst with 5 years of experience in Analytics. 
+
+My expertise includes Power BI, Alteryx Automation and LLM Engineering.
+
+Currently, I am focused on end-to-end LLM projects such as RAG-based applications with deployment and evaluation.
+
+My background includes I have built finance and operations reporting solutions (accruals, intercompany AR/AP, cost reporting) and automated data pipelines for recurring reporting
